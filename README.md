@@ -2,9 +2,12 @@
 
 ## Vagrant - #ALX Software engineer
 
-Copyright - Plagiarism
+# Learning Objectives
 
-* You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-* You are not allowed to publish any content of this project.
+* What is a virtual machine
 
+* What is Vagrant
+
+* Who wrote Vagrant
